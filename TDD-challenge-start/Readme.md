@@ -1,11 +1,11 @@
-Paper Rock Scissors Tests
+Rock Paper Scissors
 =========================
 Create a function complete with tests for playing paper, rock, scissors.  The function should take guesses for
 both players and return the winner.
 
     ```javascript
 
-        var winner = rockPaperSissors('rock', 'sissors');
+        var winner = rockPaperScissors('rock', 'scissors');
 
         winner;  // rock
 
