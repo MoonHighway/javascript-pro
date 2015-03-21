@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Array Max</title>
+</head>
+<body>
+
+<script>
+
+    var arr =  [5,3,12,7,9];
+
+    console.log( max(arr) );
+
+    function max(array) {
+        var max = 0;
+
+        array.forEach(function(num) {
+            if (num > max) {
+                max = num;
+            }
+        });
+
+        return max;
+    }
+
+</script>
+
+</body>
+</html>

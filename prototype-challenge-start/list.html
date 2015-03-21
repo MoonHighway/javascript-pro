@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Array List</title>
+</head>
+<body>
+
+<script>
+
+    var arr =  ['HTML', 'CSS', 'JS', 'ECMA'];
+
+    list("My List", arr);
+
+    function list(title, items) {
+
+        var page = document.querySelector('body'),
+                h1 = document.createElement('h1'),
+                ul = document.createElement('ul');
+
+        h1.innerText = title;
+
+        page.appendChild(h1);
+        page.appendChild(ul);
+
+        items.forEach(function(item) {
+            var li = document.createElement('li');
+            li.innerText = item;
+            ul.appendChild(li);
+        });
+
+
+    }
+
+</script>
+
+</body>
+</html>
