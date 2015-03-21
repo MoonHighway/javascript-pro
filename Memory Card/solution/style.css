@@ -1,0 +1,28 @@
+section#table {
+    height: 300px;
+    width: 617px;
+    background-color: #3A3;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+
+section#table > div {
+    background-color: yellow;
+    border-radius: 10px;
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+    float: left;
+    padding: 1em;
+}
+
+section#table > div.selected {
+    background-color: white;
+    border-radius: 10px;
+    color: #3A3;
+}
+
+section#table > div.selected > span {
+    font-size: 2em;
+}

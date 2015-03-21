@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no"/>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Memory Card</title>
+</head>
+<body>
+
+<section id="table">
+    <h1>Card Table</h1>
+</section>
+
+<script src="js/Card.js"></script>
+<script>
+
+    var hand = [
+        new Card("Ace"),
+        new Card("King"),
+        new Card("Queen"),
+        new Card("Jack")
+    ];
+
+    var table = document.querySelector('#table');
+
+    hand.forEach(function (card) {
+        table.appendChild(card.cardElement);
+    });
+
+
+</script>
+
+</body>
+</html>
