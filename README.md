@@ -6,26 +6,16 @@ and frameworks for reusability.
 Topics
 ------
 * Advanced Objects
-* Prototype Challenges
-* Design Patterns
-* ECMA 5 Objects
+* Prototype Challenge
+* Advanced Arrays
+* ECMA5 Objects
+* Templates, Handlebars, MVC
 * TDD with Jasmine
 * Building a Game Card
-* Async Programming
+* JS Profillingcle
 
 Samples
 -------
-
-### Design Patterns
-* [modules (1 - 4)](http://jsbin.com/gozim/1/edit?js,console)
-* [Observers](http://jsbin.com/kubesi/1/edit?js,console)
-* [templating](http://jsbin.com/suceh/2/edit?js,console)
-* [Handlebars](http://jsbin.com/cahewo/2/edit?js,output)
-* [AMD with require.js](http://jsbin.com/kugapu/1/edit?js,console)
-* [Iterators](http://jsbin.com/iLUQiHo/6/edit?js,console)
-* [Composite (4, 5)](http://jsbin.comiLUQiHo/4/edit?js,output)
-* [Singletons (1-2)](http://jsbin.com/iLUQiHo/1/edit?js,console)
-* [MVC (1, 2)](http://jsbin.com/roburo/2/edit?js,output)
 
 ### Advanced Objects
 * [Constructor and Prototype (1-5)](http://jsbin.com/EtOsOMUQ/1/edit?js,console)
