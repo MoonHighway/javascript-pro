@@ -28,9 +28,9 @@ Samples
 
 ### ES6 Classes and Objects
 
-* [Literal Enhancements (1,2)](http://jsbin.com/sesate/1/edit?js,console) __myMethod() { }__
+* [Literal Enhancements (1,2)](http://jsbin.com/sesate/1/edit?js,console)
 * [Destructuring Problem](http://jsbin.com/kizoto/edit?js,console)
-* [Destructuring (4-6)](http://jsbin.com/kizoto/4/edit?js,console) __var { smth } = obj;__
+* [Destructuring (4-6)](http://jsbin.com/kizoto/4/edit?js,console)
 * [ES6 Classes (1,2)](http://jsbin.com/jakupu/1/edit?js,console)
 
 ### Templates, Handlebars, MVC
