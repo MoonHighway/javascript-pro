@@ -6,29 +6,37 @@ and frameworks for reusability.
 Topics
 ------
 * Advanced Objects
-* Prototype Challenge
-* Advanced Arrays
 * ECMA5 Objects
+* ES6 Classes
 * Templates, Handlebars, MVC
 * TDD with Jasmine
 * Building a Game Card
-* JS Profillingcle
 
 Samples
 -------
 
 ### Advanced Objects
-* [Constructor and Prototype (1-5)](http://jsbin.com/EtOsOMUQ/1/edit?js,console)
-* [Constructor Issue](http://jsbin.com/EtOsOMUQ/49/edit?js,console)
 
-### Javascript Prototype Challenges
-* [__Array.prototype.max()__](http://jsbin.com/pedaze/1/edit?js,console): Build a Function that finds the max item in an array
-* [__Array.prototype.random()__](http://jsbin.com/pedaze/2/edit?js,console): Build a Function that randomly pulls an item from an array
-* [__Array.prototype.list()__](http://jsbin.com/pedaze/3/edit?js,console): Build a Function that prints an Array to the DOM
+* [Constructor (1-5)](http://jsbin.com/EtOsOMUQ/1/edit?js,console)
+* [Constructor Issue](http://jsbin.com/EtOsOMUQ/49/edit?js,console)
+* [Cat Memory Profiling (1,2)](http://jsbin.com/satolo/1/edit?html,js,output)
 
 ### ECMA Objects
+
 * [Object.create() (7-14)](http://jsbin.com/veje/7/edit?js,console)
 * [accessor properties](http://jsbin.com/gozim/5/edit?js,console)
 
-### Async Programming
-* [async samples (1-16)](http://jsbin.com/wepuhe/1/edit?js,console)
+### ES6 Classes and Objects
+
+* [Literal Enhancements (1,2)](http://jsbin.com/sesate/1/edit?js,console) __myMethod() { }__
+* [Destructuring Problem](http://jsbin.com/kizoto/edit?js,console)
+* [Destructuring (4-6)](http://jsbin.com/kizoto/4/edit?js,console) __var { smth } = obj;__
+* [ES6 Classes (1,2)](http://jsbin.com/jakupu/1/edit?js,console)
+
+### Templates, Handlebars, MVC
+
+* [Simple Template](http://jsbin.com/suceh/2/edit?html,js,output)
+* [Handlebars](http://jsbin.com/cahewo/2/edit?js,output)
+* [ES6 Template Strings](http://jsbin.com/nijalos/2/edit?js,console)
+* [ES6 Email Template](http://jsbin.com/bopedu/1/edit?js,console)
+* [ES6 Load People Template](http://jsbin.com/bopedu/2/edit?js,console)
