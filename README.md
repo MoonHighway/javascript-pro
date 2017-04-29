@@ -1,6 +1,6 @@
 JavaScript Pro
 ==============
-This class focus on those Javascript skills that are necessary to organize your code into object oriented libraries
+This class focuses on those Javascript skills that are necessary to organize your code into object oriented libraries
 and frameworks for reusability.
 
 Topics
